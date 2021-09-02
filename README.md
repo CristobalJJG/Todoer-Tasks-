@@ -1,5 +1,6 @@
 <----------(Para crear este mismo programa desde 0)---------->
 
+
 1.- Crear la carpeta del proyecto, entrar en esa carpeta desde cmd
 
 2.-Escribir en cmd python "-m venv venv" para crear la carpeta venv dentro de la carpeta del proyecto.
@@ -27,7 +28,11 @@ flask run para comprobar que todo ha ido bien, y empezar a programar
 
 
 
+
+
+
 <----------(Para utilizar este programa)---------->
+
 
 1.-Escribir en cmd python "-m venv venv" para crear la carpeta venv dentro de la carpeta del proyecto.
 
